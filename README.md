@@ -28,11 +28,11 @@ history = model.fit(X_train, y_train, validation_data=(X_test, y_test),
 ```
 
 # Description
-- **Activity Types** for this dataset
+- **Activity Types** for this dataset <br/>
 ![](images/activities.png)
 
-- **Confusion Matrix** using **CNN** for the dataset
+- **Confusion Matrix** using **CNN** for the dataset <br/>
 ![](images/cm.png)
 
-- **Classification Report** for the model
+- **Classification Report** for the model <br/>
 ![](images/report.png)
